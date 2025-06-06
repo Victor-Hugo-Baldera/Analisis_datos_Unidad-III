@@ -25,20 +25,125 @@
     "href": "content.html",
     "title": "Resultados y Discusiones",
     "section": "",
-    "text": "Para superar la dormancia física de las semillas de garbanzo (Cicer arietinum L.), se aplicará dos métodos de escarificación, mecánico y térmico.\nPara el método mecánico se utiliza bisturí, para realizar pequeños cortes en la testa (Sánchez-Soto et al., 2017) y lija N° 150 para debilitar la testa a un 1 mm de espesor por ambas caras (Hernández-Murillo et al., 2021). Evitar hacer daño al embrión.\nLa escarificación térmica se realiza colocando semillas de garbanzo en un vaso con agua hervida a 80 °C por dos minutos (Puerto, 2008)"
+    "text": "Se aplicaron diferentes métodos de escarificación a semillas de garbanzo con el objetivo de determinar cuál de ellos resultaba más eficaz para mejorar la germinación. Esto debido a que las semillas presentan una cubierta dura que dificulta el proceso germinativo. La comparación incluyó tratamientos mecánicos y térmicos, así como un control, para evaluar su efecto sobre el porcentaje de germinación.\n\n\n\n\nFigura: 1: Análisis de varianza\n\n\n\nEl análisis de varianza mostró diferencias altamente significativas entre tratamientos (p &lt; 0.001), indicando que el tipo de escarificación influyó significativamente en la germinación de las semillas.\n\n\n\n\n\n\nFigura 2: Efecto de los tratamientos de escarificación en la germinación de semillas\n\n\n\nEfecto de diferentes métodos de escarificación sobre la germinación de semillas. Los tratamientos mecánicos (bisturí y lija) y el control mostraron una mayor germinación en comparación con el tratamiento con agua hervida.\n\n\n\n\n\n\n\nFigura 3: Tiempo medio de germinación de semillas con tratamientos de escarificación\n\n\n\nEl tratamiento con lija presentó un tiempo significativamente mayor en comparación con los demás tratamientos, los cuales no mostraron diferencias significativas entre sí.\n\n\n\n\n\n\n\nFigura 4: Comparación del porcentaje de germinación en semillas con diferentes tratamientos de escarificación\n\n\n\n\n\nFigura 5: Porcentaje de germinación en relación a los días\n\n\n\nEl tratamiento con agua hervida presentó un porcentaje de germinación significativamente menor en comparación con los tratamientos control, mecánico con bisturí y mecánico con lija, los cuales no difirieron entre sí.\n\n\n\n\n\n\n\nFifura 6: Índice de sincronización de germinación de semillas con tratamientos de escarificación\n\n\n\nEl tratamiento con escarificación mecánica mediante lija presentó el mayor índice de sincronización, seguido por el tratamiento con bisturí y agua hervida. El tratamiento control mostró el menor índice. Sin embargo, no se observaron diferencias estadísticas significativas entre los tratamientos evaluados (p &gt; 0.05), ya que todos fueron agrupados en la misma letra según la prueba de comparación múltiple."
   },
   {
     "objectID": "equipo.html",
     "href": "equipo.html",
-    "title": "Introducción",
+    "title": "Estudiantes",
     "section": "",
-    "text": "El garbanzo (Cicer arietinum L.) es una leguminosa importante en la alimentación y agricultura. Su germinación puede verse limitada por la dureza de la cubierta seminal, que dificulta la absorción de agua y ralentiza el proceso (Kandil, Sharief, & Ahmed, 2012). Para mejorar la germinación, se emplean técnicas de escarificación como el remojo en agua caliente o la abrasión mecánica, que debilitan la testa sin dañar el embrión, favoreciendo así una germinación más rápida y uniforme."
+    "text": "UNTRM"
   },
   {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Introducción",
     "section": "",
+    "text": "El garbanzo (Cicer arietinum L.) es una leguminosa de gran importancia tanto en la alimentación como en la agricultura. Su alto valor nutricional, especialmente por su contenido en proteínas y fibra, lo convierte en un alimento esencial en muchas partes del mundo. Sin embargo, su germinación puede verse limitada por la dureza de la cubierta seminal, que dificulta la absorción de agua y ralentiza el proceso. Este fenómeno es particularmente problemático en condiciones de sequía o cuando las semillas no reciben suficiente humedad del suelo, lo que puede afectar negativamente la tasa de germinación (Kandil, Sharief, & Ahmed, 2012).\nPara mejorar este proceso, se emplean técnicas de escarificación, como el remojo en agua caliente o la abrasión mecánica, que debilitan la testa de la semilla sin dañar el embrión. Estos métodos favorecen una germinación más rápida y uniforme, permitiendo que las semillas absorban agua más fácilmente y comiencen su desarrollo. El tratamiento con agua caliente implica sumergir las semillas en agua a una temperatura elevada, mientras que la abrasión mecánica usa métodos físicos para desgastar la cubierta.\nEn el caso del garbanzo, comprender cómo responde la semilla a estas técnicas de escarificación nos permitirá no solo profundizar en su fisiología, sino también adaptar prácticas agrícolas que optimicen su desarrollo (Varela & Arana, 2011). Estas prácticas pueden mejorar la eficiencia de la siembra, especialmente en condiciones ambientales menos favorables, asegurando una mayor tasa de germinación y, por ende, una mejor productividad del cultivo."
+  },
+  {
+    "objectID": "docs/infrastructure.html",
+    "href": "docs/infrastructure.html",
+    "title": "Conclusiones",
+    "section": "",
+    "text": "El diseño experimental fue Diseño de Bloques Completos al Azar (DBCA). Se evalúa 4 tratamientos incluyendo un método de control (Tabla 1), teniendo como único factor al método de escarificación. Se establecerá cinco bloques como unidades experimentales repetidas bajo condiciones similares. Cada tratamiento fue repetido una vez por bloque, haciendo un total de 5 repeticiones por tratamiento. Cada unidad experimental estuvo conformada por 25 semillas, lo que dio un total de 500 semillas evaluadas"
+  },
+  {
+    "objectID": "docs/hello.html",
+    "href": "docs/hello.html",
+    "title": "Materiales y Métodos",
+    "section": "",
+    "text": "2.1 Material vegetal, esterilización e instalación de semillas\nLas semillas de Garbanzo se han obtenido en el mercado central de la ciudad de chachapoyas. Se someterá a un protocolo de desinfección con alcohol 70° por un minuto, posteriormente se lavará de 2 a 3 veces con agua.\nEstas semillas serán puestas en tapers con papel toalla húmedas para favorecer la germinación de acuerdo a los métodos de escarificación utilizados."
+  },
+  {
+    "objectID": "docs/design.html",
+    "href": "docs/design.html",
+    "title": "Referencias",
+    "section": "",
+    "text": "Kandil, A. A., Sharief, A. E., & Ahmed, S. R. H. (2012). Germination and seedling growth of some chickpea cultivars (Cicer arietinum L.) under salinity stress. Journal of Basic & Applied Sciences, 8(2), 561–571. https://doi.org/10.6000/1927-5129.2012.08.02.49"
+  },
+  {
+    "objectID": "docs/content.html",
+    "href": "docs/content.html",
+    "title": "Resultados y Discusiones",
+    "section": "",
+    "text": "Para superar la dormancia física de las semillas de garbanzo (Cicer arietinum L.), se aplicará dos métodos de escarificación, mecánico y térmico.\nPara el método mecánico se utiliza bisturí, para realizar pequeños cortes en la testa (Sánchez-Soto et al., 2017) y lija N° 150 para debilitar la testa a un 1 mm de espesor por ambas caras (Hernández-Murillo et al., 2021). Evitar hacer daño al embrión.\nLa escarificación térmica se realiza colocando semillas de garbanzo en un vaso con agua hervida a 80 °C por dos minutos (Puerto, 2008)"
+  },
+  {
+    "objectID": "docs/equipo.html",
+    "href": "docs/equipo.html",
+    "title": "Introducción",
+    "section": "",
     "text": "El garbanzo (Cicer arietinum L.) es una leguminosa importante en la alimentación y agricultura. Su germinación puede verse limitada por la dureza de la cubierta seminal, que dificulta la absorción de agua y ralentiza el proceso (Kandil, Sharief, & Ahmed, 2012). Para mejorar la germinación, se emplean técnicas de escarificación como el remojo en agua caliente o la abrasión mecánica, que debilitan la testa sin dañar el embrión, favoreciendo así una germinación más rápida y uniforme."
+  },
+  {
+    "objectID": "docs/index.html",
+    "href": "docs/index.html",
+    "title": "Introducción",
+    "section": "",
+    "text": "El garbanzo (Cicer arietinum L.) es una leguminosa importante en la alimentación y agricultura. Su germinación puede verse limitada por la dureza de la cubierta seminal, que dificulta la absorción de agua y ralentiza el proceso (Kandil, Sharief, & Ahmed, 2012). Para mejorar la germinación, se emplean técnicas de escarificación como el remojo en agua caliente o la abrasión mecánica, que debilitan la testa sin dañar el embrión, favoreciendo así una germinación más rápida y uniforme."
+  },
+  {
+    "objectID": "content.html#semillas-germinadas",
+    "href": "content.html#semillas-germinadas",
+    "title": "Resultados y Discusiones",
+    "section": "",
+    "text": "Figura 2: Efecto de los tratamientos de escarificación en la germinación de semillas\n\n\n\nEfecto de diferentes métodos de escarificación sobre la germinación de semillas. Los tratamientos mecánicos (bisturí y lija) y el control mostraron una mayor germinación en comparación con el tratamiento con agua hervida."
+  },
+  {
+    "objectID": "content.html#tiempo-medio-de-germinación",
+    "href": "content.html#tiempo-medio-de-germinación",
+    "title": "Resultados y Discusiones",
+    "section": "",
+    "text": "Figura 3: Tiempo medio de germinación de semillas con tratamientos de escarificación\n\n\n\nEl tratamiento con lija presentó un tiempo significativamente mayor en comparación con los demás tratamientos, los cuales no mostraron diferencias significativas entre sí."
+  },
+  {
+    "objectID": "content.html#porcentaje-de-germinación",
+    "href": "content.html#porcentaje-de-germinación",
+    "title": "Resultados y Discusiones",
+    "section": "",
+    "text": "Figura 4: Comparación del porcentaje de germinación en semillas con diferentes tratamientos de escarificación\n\n\n\n\n\nFigura 5: Porcentaje de germinación en relación a los días\n\n\n\nEl tratamiento con agua hervida presentó un porcentaje de germinación significativamente menor en comparación con los tratamientos control, mecánico con bisturí y mecánico con lija, los cuales no difirieron entre sí."
+  },
+  {
+    "objectID": "content.html#índice-de-sincronización",
+    "href": "content.html#índice-de-sincronización",
+    "title": "Resultados y Discusiones",
+    "section": "",
+    "text": "Fifura 6: Índice de sincronización de germinación de semillas con tratamientos de escarificación\n\n\n\nEl tratamiento con escarificación mecánica mediante lija presentó el mayor índice de sincronización, seguido por el tratamiento con bisturí y agua hervida. El tratamiento control mostró el menor índice. Sin embargo, no se observaron diferencias estadísticas significativas entre los tratamientos evaluados (p &gt; 0.05), ya que todos fueron agrupados en la misma letra según la prueba de comparación múltiple."
+  },
+  {
+    "objectID": "index.html#objetivos-específicos",
+    "href": "index.html#objetivos-específicos",
+    "title": "Introducción",
+    "section": "Objetivos Específicos",
+    "text": "Objetivos Específicos\n\n1. Determinar el tiempo medio de germinación de las semillas de garbanzo bajo los diferentes tratamientos de escarificación.\n\n\n2. Evaluar el porcentaje de germinación de las semillas de garbanzo sometidas a diferentes tratamientos de escarificación en comparación con el tratamiento control.\n\n\n3. Calcular el índice de sincronización de germinación de las semillas de garbanzo tratadas con escarificación, comparándolo con el tratamiento control."
+  },
+  {
+    "objectID": "index.html#objetivo-general",
+    "href": "index.html#objetivo-general",
+    "title": "Introducción",
+    "section": "Objetivo General",
+    "text": "Objetivo General\n\nEvaluar el efecto de los tratamientos de escarificación en la germinación de semillas de garbanzo (Cicer arietinum L.), comparando su desempeño con el tratamiento control."
+  },
+  {
+    "objectID": "equipo.html#estudiantes",
+    "href": "equipo.html#estudiantes",
+    "title": "Estudiantes",
+    "section": "",
+    "text": "Acuña Ramirez, Edinson Pooll\n\n\nBaldera Chapoñan, Victor Hugo\n\n\nDiaz Saucedo, Yoel\n\n\nMendoza Bernilla, Alejandro Salomòn\n\n\nSaldaña Bazán, Magaly"
+  },
+  {
+    "objectID": "equipo.html#curso",
+    "href": "equipo.html#curso",
+    "title": "Estudiantes",
+    "section": "Curso",
+    "text": "Curso\n\nProducción y tecnología de semillas"
+  },
+  {
+    "objectID": "equipo.html#docente",
+    "href": "equipo.html#docente",
+    "title": "Estudiantes",
+    "section": "Docente",
+    "text": "Docente\n\nDr. Flavio Lozano Isla"
   }
 ]

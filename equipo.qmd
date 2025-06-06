@@ -1,6 +1,42 @@
 ---
-title: "Introducción"
+title: "Estudiantes"
 ---
 
-El garbanzo (Cicer arietinum L.) es una leguminosa importante en la alimentación y agricultura. Su germinación puede verse limitada por la dureza de la cubierta seminal, que dificulta la absorción de agua y ralentiza el proceso (Kandil, Sharief, & Ahmed, 2012). Para mejorar la germinación, se emplean técnicas de escarificación como el remojo en agua caliente o la abrasión mecánica, que debilitan la testa sin dañar el embrión, favoreciendo así una germinación más rápida y uniforme. 
+::: {style="text-align: center;"}
+![UNTRM](images/untrm.jpeg)
+:::
+# Lista de Estudiantes
+
+::: {style="border: 2px solid #008CBA; padding: 15px; margin-bottom: 20px; background-color: #f2f2f2;"}
+<strong>Acuña Ramirez, Edinson Pooll</strong>
+:::
+
+::: {style="border: 2px solid #008CBA; padding: 15px; margin-bottom: 20px; background-color: #f2f2f2;"}
+<strong>Baldera Chapoñan, Victor Hugo</strong>
+:::
+
+::: {style="border: 2px solid #008CBA; padding: 15px; margin-bottom: 20px; background-color: #f2f2f2;"}
+<strong>Diaz Saucedo, Yoel</strong>
+:::
+
+::: {style="border: 2px solid #008CBA; padding: 15px; margin-bottom: 20px; background-color: #f2f2f2;"}
+<strong>Mendoza Bernilla, Alejandro Salomòn</strong>
+:::
+
+::: {style="border: 2px solid #008CBA; padding: 15px; margin-bottom: 20px; background-color: #f2f2f2;"}
+<strong>Saldaña Bazán, Magaly</strong>
+:::
+
+## Curso
+
+::: {style="border: 2px solid #008CBA; padding: 15px; margin-bottom: 20px; background-color: #f2f2f2;"}
+<strong>Producción y tecnología de semillas</strong>
+:::
+
+## Docente
+
+::: {style="border: 2px solid #008CBA; padding: 15px; margin-bottom: 20px; background-color: #f2f2f2;"}
+<strong>Dr. Flavio Lozano Isla</strong>
+:::
+
 

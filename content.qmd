@@ -1,10 +1,41 @@
 ---
 title: "Resultados y Discusiones"
-editor: visual
+number-sections: true
 ---
 
-Para superar la dormancia física de las semillas de garbanzo (Cicer arietinum L.), se aplicará dos métodos de escarificación, mecánico  y térmico. 
+# Resultados
 
-Para el método mecánico se utiliza bisturí, para realizar pequeños cortes en la testa (Sánchez-Soto et al., 2017) y lija N° 150 para debilitar la testa a un 1 mm de espesor por ambas caras (Hernández-Murillo et al., 2021). Evitar hacer daño al embrión. 
+<p align="justify">Se aplicaron diferentes métodos de escarificación a semillas de garbanzo con el objetivo de determinar cuál de ellos resultaba más eficaz para mejorar la germinación. Esto debido a que las semillas presentan una cubierta dura que dificulta el proceso germinativo. La comparación incluyó tratamientos mecánicos y térmicos, así como un control, para evaluar su efecto sobre el porcentaje de germinación.
+</p>
 
-La escarificación térmica se realiza colocando semillas de garbanzo en un vaso con agua hervida a 80 °C por dos minutos (Puerto, 2008) 
+![Figura: 1: Análisis de varianza](images/Tabla.jpeg){fig-alt="El análisis de varianza mostró diferencias altamente significativas entre tratamientos (p < 0.001), indicando que el tipo de escarificación influyó significativamente en la germinación de las semillas." fig-align="center"}
+
+<p align="justify">El análisis de varianza mostró diferencias altamente significativas entre tratamientos (p \< 0.001), indicando que el tipo de escarificación influyó significativamente en la germinación de las semillas.</p>
+
+## Semillas germinadas
+
+![Figura 2: Efecto de los tratamientos de escarificación en la germinación de semillas](images/GRS.jpeg){fig-align="center"}
+
+<p align="justify">Efecto de diferentes métodos de escarificación sobre la germinación de semillas. Los tratamientos mecánicos (bisturí y lija) y el control mostraron una mayor germinación en comparación con el tratamiento con agua hervida.</p>
+
+## Tiempo medio de germinación
+
+![Figura 3: Tiempo medio de germinación de semillas con tratamientos de escarificación](images/mgt.jpeg){fig-align="center"}
+
+<p align="justify">El tratamiento con lija presentó un tiempo significativamente mayor en comparación con los demás tratamientos, los cuales no mostraron diferencias significativas entre sí.</p>
+
+## Porcentaje de germinación
+
+![Figura 4: Comparación del porcentaje de germinación en semillas con diferentes tratamientos de escarificación](images/Procentaje_ger.jpeg){fig-align="center"}
+
+![Figura 5: Porcentaje de germinación en relación a los días](images/por_germinacion.jpeg){fig-align="center"}
+
+<p align="justify">El tratamiento con agua hervida presentó un porcentaje de germinación significativamente menor en comparación con los tratamientos control, mecánico con bisturí y mecánico con lija, los cuales no difirieron entre sí.</p>
+
+## Índice de sincronización
+
+![Fifura 6: Índice de sincronización de germinación de semillas con tratamientos de escarificación](images/syn.jpeg){fig-align="center"}
+
+<p align="justify">El tratamiento con escarificación mecánica mediante lija presentó el mayor índice de sincronización, seguido por el tratamiento con bisturí y agua hervida. El tratamiento control mostró el menor índice. Sin embargo, no se observaron diferencias estadísticas significativas entre los tratamientos evaluados (p \> 0.05), ya que todos fueron agrupados en la misma letra según la prueba de comparación múltiple.</p>
+
+# Discusión

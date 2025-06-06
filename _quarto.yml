@@ -11,7 +11,7 @@ website:
   description: "Evaluación de dos métodos de escarificación en la germinación de semillas de garbanzo (Cicer arietinum L.)"
   site-url: "https://datasciencebox.org/"
   
-  repo-url: https://github.com/rstudio-education/datascience-box
+  repo-url: https://github.com/Victor-Hugo-Baldera/Analisis_datos_Unidad-II
   repo-actions: [edit, issue]
 
   open-graph: true
@@ -33,7 +33,7 @@ website:
  
     right:
       - icon: github
-        href: https://github.com/rstudio-education/datascience-box
+        href: https://github.com/Victor-Hugo-Baldera/Analisis_datos_Unidad-II
         aria-label: GitHub
 
     left:
