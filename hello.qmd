@@ -53,11 +53,25 @@ Con el objetivo de superar la dormancia física de las semillas de garbanzo (*Ci
 
 ## Escarificación mecánica
 
+### Bisturí
+
 <p align="justify">
 
-Este método consiste en debilitar la testa de las semillas para facilitar la absorción de agua. Se utilizará un bisturí para realizar pequeños cortes superficiales en la testa, siguiendo el procedimiento descrito por Sánchez-Soto et al. (2017). Adicionalmente, se empleará una lija N° 150 para desgastar la testa hasta alcanzar un espesor aproximado de 1 mm en ambas caras de la semilla, tal como indica Hernández-Murillo et al. (2021). Durante este proceso, se debe tener especial cuidado de no dañar el embrión.
+Este método consiste en debilitar la testa de las semillas para facilitar la absorción de agua. Se utilizará un bisturí para realizar pequeños cortes superficiales en la testa, siguiendo el procedimiento descrito por Sánchez-Soto et al. (2017).
 
 </p>
+
+![](images/bisturi.jpeg){fig-align="center" width="299"}
+
+### Lija
+
+<p align="justify">
+
+Adicionalmente, se empleará una lija N° 150 para desgastar la testa hasta alcanzar un espesor aproximado de 1 mm en ambas caras de la semilla, tal como indica Hernández-Murillo et al. (2021). Durante este proceso, se debe tener especial cuidado de no dañar el embrión.
+
+</p>
+
+![](images/lija.jpeg){fig-align="center" width="287"}
 
 ## Escarificación térmica
 

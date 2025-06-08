@@ -2,8 +2,7 @@ project:
   type: website
   output-dir: docs
   resources:
-    - "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTU3YM5lz5piQaGd1CGOFO1WQxl7XvURnrk1Q&s"
-    - "course-materials/_slides/"
+    - "https://www.untrm.edu.pe/assets/images/untrmazul.png"
     
 website:
   page-navigation: true

@@ -3,5 +3,8 @@ title: "Conclusiones"
 editor: visual
 ---
 
-El diseño experimental fue Diseño de Bloques Completos al Azar (DBCA). Se evalúa 4 tratamientos incluyendo un método de control (Tabla 1), teniendo como único factor al método de escarificación. Se establecerá cinco bloques como unidades experimentales repetidas bajo condiciones similares. Cada tratamiento fue repetido una vez por bloque, haciendo un total de 5 repeticiones por tratamiento. Cada unidad experimental estuvo conformada por 25 semillas, lo que dio un total de 500 semillas evaluadas
+-   El tratamiento con lija presentó un mayor tiempo medio de germinación, lo que sugiere que, aunque promovió una mayor germinación, las semillas tardaron más en germinar debido a una mayor heterogeneidad en la germinación.
 
+-   El tratamiento con agua hervida tuvo el porcentaje de germinación más bajo, lo que indica que el calor excesivo fue perjudicial. En cambio, los tratamientos con lija y bisturí fueron más efectivos que el control, promoviendo una germinación superior.
+
+-   La escarificación con lija mostró el mayor índice de sincronización, lo que significa que la germinación fue más uniforme, lo cual es ventajoso agronómicamente para obtener un cultivo más homogéneo.

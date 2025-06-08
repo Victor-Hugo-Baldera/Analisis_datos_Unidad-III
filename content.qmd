@@ -20,7 +20,7 @@ El análisis de varianza mostró diferencias altamente significativas entre trat
 ![Figura 2: Efecto de los tratamientos de escarificación en la germinación de semillas](images/GRS.jpeg){fig-align="center"}
 
 <p align="justify">
-Efecto de diferentes métodos de escarificación sobre la germinación de semillas. Los tratamientos mecánicos (bisturí y lija) y el control mostraron una mayor germinación en comparación con el tratamiento con agua hervida.
+Los tratamientos mecánicos (bisturí y lija) y el control mostraron una mayor germinación en comparación con el tratamiento con agua hervida.
 </p>
 
 ## Tiempo medio de germinación

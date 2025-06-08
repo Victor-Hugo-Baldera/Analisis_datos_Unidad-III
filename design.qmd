@@ -11,4 +11,4 @@ editor: visual
 
 4.  KAK, A., GUPTA, V., & DEVI, C. (2014). EFFECT OF SCARIFICATION TREATMENTS ON HARDSEEDEDNESS IN TWO WILD SPECIES OF CORCHORUS. Annals of Agricultural Research, 28(1). https://epubs.icar.org.in/index.php/AAR/article/view/42455
 
-5.  Villagrán, L. F. (1999). Efecto de la escarificación y del ácido giberélico en la germinación del canistel (\*Pouteria campechiana\*, Baehni) (Doctoral dissertation, Escuela Agrícola Panamericana, Zamorano).
+5.  Villagrán, L. F. (1999). Efecto de la escarificación y del ácido giberélico en la germinación del canistel (Pouteria campechiana, Baehni) (Doctoral dissertation, Escuela Agrícola Panamericana, Zamorano).
