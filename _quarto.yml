@@ -2,7 +2,7 @@ project:
   type: website
   output-dir: docs
   resources:
-    - "images/logo.png"
+    - "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTU3YM5lz5piQaGd1CGOFO1WQxl7XvURnrk1Q&s"
     - "course-materials/_slides/"
     
 website:
@@ -17,16 +17,16 @@ website:
   open-graph: true
   twitter-card:
     creator: "@vhugo"
-    image: "/images/logo.png"
+    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTU3YM5lz5piQaGd1CGOFO1WQxl7XvURnrk1Q&s"
 
   page-footer:
     left: "Esta página fue creada con ❤️ y [Quarto](https://quarto.org/)."
-    background: "#5b1f00"
+    background: "#153768"
     right: []
 
   navbar:
-    background: "#5b1f00"
-    logo: "images/logo.png"
+    background: "#153768"
+    logo: "https://www.untrm.edu.pe/assets/images/untrmazul.png"
     align: center
     title: false
     collapse-below: lg

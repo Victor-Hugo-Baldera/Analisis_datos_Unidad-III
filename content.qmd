@@ -5,24 +5,31 @@ number-sections: true
 
 # Resultados
 
-<p align="justify">Se aplicaron diferentes métodos de escarificación a semillas de garbanzo con el objetivo de determinar cuál de ellos resultaba más eficaz para mejorar la germinación. Esto debido a que las semillas presentan una cubierta dura que dificulta el proceso germinativo. La comparación incluyó tratamientos mecánicos y térmicos, así como un control, para evaluar su efecto sobre el porcentaje de germinación.
+<p align="justify">
+Se aplicaron diferentes métodos de escarificación a semillas de garbanzo con el objetivo de determinar cuál de ellos resultaba más eficaz para mejorar la germinación. Esto debido a que las semillas presentan una cubierta dura que dificulta el proceso germinativo. La comparación incluyó tratamientos mecánicos y térmicos, así como un control, para evaluar su efecto sobre el porcentaje de germinación.
 </p>
 
 ![Figura: 1: Análisis de varianza](images/Tabla.jpeg){fig-alt="El análisis de varianza mostró diferencias altamente significativas entre tratamientos (p < 0.001), indicando que el tipo de escarificación influyó significativamente en la germinación de las semillas." fig-align="center"}
 
-<p align="justify">El análisis de varianza mostró diferencias altamente significativas entre tratamientos (p \< 0.001), indicando que el tipo de escarificación influyó significativamente en la germinación de las semillas.</p>
+<p align="justify">
+El análisis de varianza mostró diferencias altamente significativas entre tratamientos (p \< 0.001), indicando que el tipo de escarificación influyó significativamente en la germinación de las semillas.
+</p>
 
 ## Semillas germinadas
 
 ![Figura 2: Efecto de los tratamientos de escarificación en la germinación de semillas](images/GRS.jpeg){fig-align="center"}
 
-<p align="justify">Efecto de diferentes métodos de escarificación sobre la germinación de semillas. Los tratamientos mecánicos (bisturí y lija) y el control mostraron una mayor germinación en comparación con el tratamiento con agua hervida.</p>
+<p align="justify">
+Efecto de diferentes métodos de escarificación sobre la germinación de semillas. Los tratamientos mecánicos (bisturí y lija) y el control mostraron una mayor germinación en comparación con el tratamiento con agua hervida.
+</p>
 
 ## Tiempo medio de germinación
 
 ![Figura 3: Tiempo medio de germinación de semillas con tratamientos de escarificación](images/mgt.jpeg){fig-align="center"}
 
-<p align="justify">El tratamiento con lija presentó un tiempo significativamente mayor en comparación con los demás tratamientos, los cuales no mostraron diferencias significativas entre sí.</p>
+<p align="justify">
+El tratamiento con lija presentó un tiempo significativamente mayor en comparación con los demás tratamientos, los cuales no mostraron diferencias significativas entre sí.
+</p>
 
 ## Porcentaje de germinación
 
@@ -30,12 +37,32 @@ number-sections: true
 
 ![Figura 5: Porcentaje de germinación en relación a los días](images/por_germinacion.jpeg){fig-align="center"}
 
-<p align="justify">El tratamiento con agua hervida presentó un porcentaje de germinación significativamente menor en comparación con los tratamientos control, mecánico con bisturí y mecánico con lija, los cuales no difirieron entre sí.</p>
+<p align="justify">
+El tratamiento con agua hervida presentó un porcentaje de germinación significativamente menor en comparación con los tratamientos control, mecánico con bisturí y mecánico con lija, los cuales no difirieron entre sí.
+</p>
 
 ## Índice de sincronización
 
 ![Fifura 6: Índice de sincronización de germinación de semillas con tratamientos de escarificación](images/syn.jpeg){fig-align="center"}
 
-<p align="justify">El tratamiento con escarificación mecánica mediante lija presentó el mayor índice de sincronización, seguido por el tratamiento con bisturí y agua hervida. El tratamiento control mostró el menor índice. Sin embargo, no se observaron diferencias estadísticas significativas entre los tratamientos evaluados (p \> 0.05), ya que todos fueron agrupados en la misma letra según la prueba de comparación múltiple.</p>
+<p align="justify">
+El tratamiento con escarificación mecánica mediante lija presentó el mayor índice de sincronización, seguido por el tratamiento con bisturí y agua hervida. El tratamiento control mostró el menor índice. Sin embargo, no se observaron diferencias estadísticas significativas entre los tratamientos evaluados (p \> 0.05), ya que todos fueron agrupados en la misma letra según la prueba de comparación múltiple.
+</p>
 
 # Discusión
+
+<p align="justify">
+  El efecto de la escarificación térmica sobre la viabilidad para el T2 (agua a 80°C) resultó el menos efectivo, con germinación significativamente menor. Esto concuerda con reportes que advierten sobre daños térmicos, señalan que usar agua hirviendo puede ser letal para la semilla, recomendando temperaturas óptimas de 70–90°C y evitando la ebullición (Villagrán, 1999). De hecho, se encontró que inmersiones prolongadas en 80°C produjeron resultados poco beneficiosos (Bichoff et al. 2018). En otras leguminosas se observa efecto similar donde los tratamientos con calor seco fueron ineficaces o dañinos para eliminar la dormancia (Kak et al., 2014). En consecuencia, en nuestro experimento la escarificación térmica pudo dañar parte de los embriones o inducir estrés (por calor) que redujo la viabilidad. Por lo tanto, a pesar de que el calor puede romper la impermeabilidad de la testa en algunas especies, un exceso de temperatura disminuye la germinación (Villagrán, 1999; Bichoff et al., 2018).
+</p>
+
+<p align="justify">
+  Para la escarificación mecánica, los tratamientos mecánicos (T3 y T4) promovieron una germinación igual o incluso superior al control. Especialmente la lija (T3) alcanzó 92.8% de germinación, ligeramente mayor que el control (92%) y el bisturí (88%). Esto se explica porque el raspado rompe físicamente la cubierta dura, facilitando la entrada de agua y gases. Estudios en *Cicer* y otras leguminosas confirman este efecto. Guma et al. (2010) observaron que la escarificación mecánica con papel lija superó ampliamente la germinación inicial en *Cicer canariense* (una especie silvestre emparentada). Además, hallaron que la escarificación con lija incrementó la germinación final al 82.5%, muy superior al testigo (Bichoff et al. 2018). En contraste, el control sin tratamiento solo germinó la fracción naturalmente permeable. Además, la lija actúa de forma más homogénea que el corte puntual con bisturí; al frotar toda la superficie seminal, se aumenta la probabilidad de eliminar la dormancia física en más semillas. En conjunto, estos datos concuerdan con trabajos previos que señalan que la escarificación mecánica rompió la dormancia física de *Cicer canariense*, incrementando la germinación (Gumar et al., 2010).
+</p>
+
+<p align="justify">
+  El tiempo medio de germinación es un indicador fisiológico que resume la velocidad de germinación. Valores bajos reflejan germinación más rápida y, por ende, mayor vigor de la semilla. En nuestro experimento, el tratamiento mecánico lija fue mayor, lo que indica que, en promedio, las semillas tardaron más en germinar. Esto puede deberse a que, aunque T3 promovió más germinación total, incluyó semillas que despertaron más tarde tras la escarificación, elevando el promedio. Por el contrario, T2 y T1 presentaron germinación más rápida (mgt: 2.8 – 2.9 d), probablemente porque solo las semillas más receptivas germinaron pronto. En general, un mgt alto sugiere germinación más heterogénea o estrés adicional; por ejemplo, escarificaciones demasiado agresivas pueden lesionar ligeramente el embrión, retardando la emergencia. Otros autores señalan que cuando el mgt está bajo, las semillas se desarrollan rápidamente (alta uniformidad temporal) (Aravind et al., 2019). En resumen, la mayor mgt en T3 refleja una germinación más lenta en promedio (tal vez por un mayor número de semillas tardías), lo cual es compatible con el mayor porcentaje final logrado.
+</p>
+
+<p align="justify">
+  El índice de sincronización mide cuánto coinciden los tiempos de germinación entre semillas, Z = 1 indica germinación totalmente simultánea, Z = 0 indica que cada semilla germina en un momento distinto, sin que dos germinaciones ocurran al mismo tiempo (Ranal & Santana, 2006). En nuestro caso, T3 presentó la mayor sincronía (Z=0.35), seguido de T4 (0.32), mientras que T1 fue la más baja (0.20). Esto significa que la escarificación mecánica produjo un germinado más uniforme en el tiempo. Un alto grado de sincronía es importante agronómicamente, ya que da lugar a plántulas emergidas casi al mismo tiempo, facilitando la uniformidad del cultivo y reduciendo la competencia desigual. Como explica Ranal & Santana (2006), Z aumenta cuando más semillas germinan juntas. En cambio, la baja sincronía en el control indica germinaciones más esporádicas. Así, la lija logró no sólo mayor tasa total, sino que las semillas germinaron de manera más simultánea. Esto concuerda con la idea de que la escarificación rompe la barrera física en todas las semillas casi al mismo tiempo, provocando un solapamiento de eventos germinativos elevados (Ranal & Santana, 2006).
+</p>

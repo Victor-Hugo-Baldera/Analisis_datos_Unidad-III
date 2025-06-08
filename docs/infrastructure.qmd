@@ -1,7 +1,0 @@
----
-title: "Conclusiones"
-editor: visual
----
-
-El diseño experimental fue Diseño de Bloques Completos al Azar (DBCA). Se evalúa 4 tratamientos incluyendo un método de control (Tabla 1), teniendo como único factor al método de escarificación. Se establecerá cinco bloques como unidades experimentales repetidas bajo condiciones similares. Cada tratamiento fue repetido una vez por bloque, haciendo un total de 5 repeticiones por tratamiento. Cada unidad experimental estuvo conformada por 25 semillas, lo que dio un total de 500 semillas evaluadas
-

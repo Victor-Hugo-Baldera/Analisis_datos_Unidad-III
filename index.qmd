@@ -1,11 +1,18 @@
 ---
 title: "Introducción"
 ---
-El garbanzo (Cicer arietinum L.) es una leguminosa de gran importancia tanto en la alimentación como en la agricultura. Su alto valor nutricional, especialmente por su contenido en proteínas y fibra, lo convierte en un alimento esencial en muchas partes del mundo. Sin embargo, su germinación puede verse limitada por la dureza de la cubierta seminal, que dificulta la absorción de agua y ralentiza el proceso. Este fenómeno es particularmente problemático en condiciones de sequía o cuando las semillas no reciben suficiente humedad del suelo, lo que puede afectar negativamente la tasa de germinación (Kandil, Sharief, & Ahmed, 2012).
+<p align="justify">
+El garbanzo (*Cicer arietinum* L.) es una leguminosa de gran importancia tanto en la alimentación como en la agricultura. Su alto valor nutricional, especialmente por su contenido en proteínas y fibra, lo convierte en un alimento esencial en muchas partes del mundo. Sin embargo, su germinación puede verse limitada por la dureza de la cubierta seminal, que dificulta la absorción de agua y ralentiza el proceso. Este fenómeno es particularmente problemático en condiciones de sequía o cuando las semillas no reciben suficiente humedad del suelo, lo que puede afectar negativamente la tasa de germinación (Kandil, Sharief, & Ahmed, 2012).
+</p>
 
+<p align="justify">
 Para mejorar este proceso, se emplean técnicas de escarificación, como el remojo en agua caliente o la abrasión mecánica, que debilitan la testa de la semilla sin dañar el embrión. Estos métodos favorecen una germinación más rápida y uniforme, permitiendo que las semillas absorban agua más fácilmente y comiencen su desarrollo. El tratamiento con agua caliente implica sumergir las semillas en agua a una temperatura elevada, mientras que la abrasión mecánica usa métodos físicos para desgastar la cubierta.
+</p>
 
+<p align="justify">
 En el caso del garbanzo, comprender cómo responde la semilla a estas técnicas de escarificación nos permitirá no solo profundizar en su fisiología, sino también adaptar prácticas agrícolas que optimicen su desarrollo (Varela & Arana, 2011). Estas prácticas pueden mejorar la eficiencia de la siembra, especialmente en condiciones ambientales menos favorables, asegurando una mayor tasa de germinación y, por ende, una mejor productividad del cultivo.
+</p>
+
 
 ![](images/garba.jpeg){fig-align="center"}
 

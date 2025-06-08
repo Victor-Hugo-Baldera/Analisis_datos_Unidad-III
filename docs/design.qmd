@@ -1,7 +1,0 @@
----
-title: "Referencias"
-editor: visual
----
-
-Kandil, A. A., Sharief, A. E., & Ahmed, S. R. H. (2012). Germination and seedling growth of some chickpea cultivars (Cicer arietinum L.) under salinity stress. Journal of Basic & Applied Sciences, 8(2), 561–571. https://doi.org/10.6000/1927-5129.2012.08.02.49
-

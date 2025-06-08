@@ -3,5 +3,12 @@ title: "Referencias"
 editor: visual
 ---
 
-Kandil, A. A., Sharief, A. E., & Ahmed, S. R. H. (2012). Germination and seedling growth of some chickpea cultivars (Cicer arietinum L.) under salinity stress. Journal of Basic & Applied Sciences, 8(2), 561–571. https://doi.org/10.6000/1927-5129.2012.08.02.49
+1.  Aravind, J., Vimala, D., Radharani, J., Jacob, S. R., & Srinivasa, K. (2019). The germinationmetrics package: A brief introduction. New Delhi, India: ICAR-National Bureau of Plant Genetic Resources, 1-219.
 
+2.  Bichoff, R. S., Okumura, R. S., Oliveira, R. S., Sodre, D. C., & Valente, G. F. (2018). Overcoming seed dormancy and evaluation of viability in Leucaena leucocephala. Australian Journal of Crop Science, 12(1), 168-172.
+
+3.  Guma, I. R., Mederos, M. A., Guerra, A. S., & Reyes-Betancort, J. A. (2010). Evaluation of methods to remove hardseededness in Cicer canariense, a perennial wild relative of chickpea. Seed Science and Technology, 38(1), 209-213.
+
+4.  KAK, A., GUPTA, V., & DEVI, C. (2014). EFFECT OF SCARIFICATION TREATMENTS ON HARDSEEDEDNESS IN TWO WILD SPECIES OF CORCHORUS. Annals of Agricultural Research, 28(1). https://epubs.icar.org.in/index.php/AAR/article/view/42455
+
+5.  Villagrán, L. F. (1999). Efecto de la escarificación y del ácido giberélico en la germinación del canistel (\*Pouteria campechiana\*, Baehni) (Doctoral dissertation, Escuela Agrícola Panamericana, Zamorano).
